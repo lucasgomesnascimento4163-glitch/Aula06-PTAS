@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "preco": 20,
+    "nome": "Vassoura",
+    "deletedAt": "2026-09-10T20:57:40.025Z"
+  },
+  {
+    "id": 2,
+    "preco": 5,
+    "nome": "Rodo"
+  },
+  {
+    "id": 3,
+    "nome": "Cadeira",
+    "preco": 50
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "email": "ana@example.com",
+    "nome": "Ana"
+  },
+  {
+    "id": 2,
+    "email": "bruno@example.com",
+    "nome": "Bruno"
+  },
+  {
+    "id": 3,
+    "nome": "Joao",
+    "email": "joao@example.com",
+    "deletedAt": "2026-09-10T20:58:33.442Z"
+  },
+  {
+    "id": 4,
+    "nome": "Shigeo",
+    "email": "mob@email.com"
+  },
+  {
+    "id": 6,
+    "nome": "Pedro",
+    "email": "pedro@email.com"
+  }
+]
